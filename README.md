@@ -1,4 +1,4 @@
-# Workshop polná 
+# Workshop Polná 
 Matěj Man - 2025-02-20   
 Zpracování dat z mikroklimatických data loggerů TOMST.  
 Výpočty odvozených proměnných  
