@@ -1,3 +1,6 @@
+# Autor: Matěj Man, Chaloupky
+# Datum: 20.02.2025
+
 # Seznam potřebných knihoven
 required_packages <-
   c("dplyr", "tidyr", "stringr", "openxlsx", "ggplot2")

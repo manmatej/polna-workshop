@@ -1,3 +1,6 @@
+# Autor: Matěj Man, Chaloupky
+#        josef Brůna, Botanický ústav AVČR
+# Datum: 20.02.2025
 
 # Seznam potřebných knihoven
 required_packages <- c("jsonlite", "lubridate", "sf", "dplyr", "stringr")
